@@ -19,14 +19,6 @@ dependencies:
   
 
 
-  sutils:
-    git: https://github.com/StronzLabs/SUtils.git
-
-  async: ^2.11.0
-  provider: ^6.1.2
-
-  flutter_hls_parser:
-    git: https://github.com/Bonfra04/flutter_hls_parser.git
   path_provider: ^2.1.4
 
   wakelock_plus: ^1.2.8
