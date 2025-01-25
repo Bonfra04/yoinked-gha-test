@@ -16,7 +16,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  wakelock_plus: ^1.2.8
   stronz_video_player:
     git: https://github.com/StronzLabs/StronzVideoPlayer.git
   sutils:
