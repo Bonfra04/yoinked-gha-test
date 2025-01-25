@@ -22,9 +22,6 @@ dependencies:
   sutils:
     git: https://github.com/StronzLabs/SUtils.git
 
-  fvp:
-    git: https://github.com/wang-bin/fvp.git
-
   openpgp:
     # When depending on this package from a real application you should use:
     #   openpgp: ^x.y.z
@@ -36,9 +33,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-
-dependency_overrides:
-  uuid: ^4.4.0
 
 dev_dependencies:
   integration_test:
