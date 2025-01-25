@@ -17,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
   
-sutils:
+  sutils:
     git: https://github.com/StronzLabs/SUtils.git
 
   async: ^2.11.0
