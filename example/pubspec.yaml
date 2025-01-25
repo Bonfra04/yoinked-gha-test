@@ -16,8 +16,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  stronz_video_player:
-    git: https://github.com/StronzLabs/StronzVideoPlayer.git
   sutils:
     git: https://github.com/StronzLabs/SUtils.git
 
